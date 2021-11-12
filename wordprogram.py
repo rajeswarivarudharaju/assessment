@@ -1,4 +1,3 @@
-import wordprogram
 sentance="Arjun went to shop to bought a new pen and also bought new pencil"
 
 wordList=sentance.split() # split the sentance in to word list
