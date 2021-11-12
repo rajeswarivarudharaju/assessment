@@ -1,0 +1,15 @@
+{
+    "educationlevel": [
+        "bachelor's degree",
+        "some college",
+        "master's degree",
+        "associate's degree",
+        "high school",
+        "some high school"
+    ],
+    "average": {
+        "meanMath": 66.089,
+        "meanread": 69.169,
+        "meanwrite": 68.054
+    }
+}
